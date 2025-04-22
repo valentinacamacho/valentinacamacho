@@ -2,11 +2,6 @@
 <br>¡Hola 👋! Mi nombre es valentina <br>
 <br>Me gusta la tecnologia hace poco me enfoque al mundo del desarrollo, El analisis es una de las cosas mas importante porque con ella podemos innovar, implementar y dar una solucion a cualquier problema.<br>
 
-
-### ✍️ Mi Lema
-"Sabes cual es el problema?<br>El problema esta es que si tienes un sueño,<br>tienes que perseguirlo, sueña lejos y no se lo cuentes a<br>mentes pequeñas ese es el lema que me representa"
-
-
 ### 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JeniferCamachoDesarrolladoraWeb/) 
 
